@@ -1,4 +1,4 @@
-altair==5.5.0
+ÿþaltair==5.5.0
 attrs==25.3.0
 blinker==1.9.0
 Bottleneck @ file:///C:/b/abs_816hr2khp1/croot/bottleneck_1731058648110/work
